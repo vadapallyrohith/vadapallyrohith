@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rohith 👋
 
-<!--
-**vadapallyrohith/vadapallyrohith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with skills in SQL, Python, and Power BI.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL (Joins, Window Functions)
+- Python (Pandas, NumPy)
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Sales Dashboard (SQL + Power BI)
+- Customer Segmentation (Python)
+- Business Case Study (SQL + Python)
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/vadapally-rohith-aa4899151
