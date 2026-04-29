@@ -8,7 +8,7 @@ Aspiring Data Analyst with skills in SQL, Python, and Power BI.
 - Power BI
 
 ## 📊 Projects
-- Sales Dashboard (SQL + Power BI)
+- [Sales Data Analysis](https://github.com/vadapallyrohith/sales-data-analysis-sql)
 - Customer Segmentation (Python)
 - Business Case Study (SQL + Python)
 
